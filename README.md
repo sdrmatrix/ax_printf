@@ -18,4 +18,4 @@ print color text in console with C.
 	ax_printf(AX_LIGHT_SKYBLUE,"LIGHT_SKYBLUE\n");
 	ax_printf(AX_LIGHT_WHITE,"LIGHT_WHITE\n");
 # output:
-  
+  ![output:](https://github.com/sdrmatrix/ax_printf/blob/master/output.png)
